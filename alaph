@@ -1,0 +1,7 @@
+Public Class CmdEx1
+{ 
+Public Static void main (steing []args)
+{
+  sysout ("hello");
+}
+}
